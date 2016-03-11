@@ -1,3 +1,8 @@
+## Pre-work
+
+![javascripting](javascripting.jpg)
+![learnyounode](learnyounode.jpg)
+
 ## Echo and Proxy Server
 
 ### Features
