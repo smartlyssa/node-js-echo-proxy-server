@@ -13,7 +13,7 @@
 * [x] Does your app log request to stdout or save it properly to a file when the log argument is given?
 * [x] Did you successfully push your code to github? Can you see the code on github?
 * [x] Did you add a README which includes a GIF walkthrough of the app's functionality?
-* [] Did you create an issue on the repo and include /cc @codepathreview @codepath in the issue body?
+* [x] Did you create an issue on the repo and include /cc @codepathreview @codepath in the issue body?
 
 ### Walkthrough
 
