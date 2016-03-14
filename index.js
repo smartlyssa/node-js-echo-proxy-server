@@ -1,4 +1,4 @@
-"use strict"
+//"use strict"
 let http = require('http')
 let fs = require('fs')
 let request = require('request')
