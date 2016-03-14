@@ -1,4 +1,4 @@
-Time spent: `24 hours`
+### Time spent: `24 hours`
 
 ## Pre-work
 
